@@ -504,6 +504,7 @@ nav .menu li.active:hover a {
   margin-top: 110px;
 }
 
+/* Power /Multiple Apps */
 .power .multiple-apps h1 {
   width: 500px;
   height: 280px;
@@ -520,4 +521,30 @@ nav .menu li.active:hover a {
   height: 46px;
   background-image: url("../images/power_multiple_apps_caption.png");
   transform: translate(703px, -47px);
+}
+
+/* Power / Arcade */
+.power .arcade {
+}
+
+.power .arcade .figures {
+}
+
+.power .arcade figure {
+}
+
+.power .arcade figcaption {
+}
+
+/* Power / Create */
+.power .create {
+}
+
+.power .create .figures {
+}
+
+.power .create figure {
+}
+
+.power .create figcaption {
 }
